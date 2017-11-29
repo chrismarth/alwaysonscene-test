@@ -138,7 +138,7 @@
           <resources>
             <labels>
               <all>
-                <space>Alw</space>
+                <space>AlwaysOnScene</space>
               </all>
             </labels>
           </resources>
